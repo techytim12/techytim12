@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techytim12
+- 👋 Hi, I’m Thomas Philip!
 - 👀 I’m interested in linux, programming, servers & much more!
 - 🌱 I’m currently learning languages like java, python, nodejs.
 - 💞️ I’m looking to collaborate on opensource projects which helps me to improve on my skillsets.
