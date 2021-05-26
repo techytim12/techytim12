@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Philip!
 - 👀 I’m interested in linux, programming, servers & much more!
-- 🌱 I’m currently learning languages like java, python, nodejs.
+- 🌱 I’m currently learning python, nodejs, react & many more!.
 - 💞️ I’m looking to collaborate on opensource projects which helps me to improve on my skillsets.
 - 📫 Reach me on thomasphilipchry@gmail.com.
 - https://thomasphilip.tk
